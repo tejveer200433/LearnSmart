@@ -54,7 +54,7 @@ Follow these simple steps to set up LearnSmart on your local machine:
    ```bash
    npm start
    ```
-5. **Open your browser and visit http://localhost:3000 to explore the app!**
+5. **Open your browser and visit http://localhost:8000 to explore the app!**
    
 ---
 
